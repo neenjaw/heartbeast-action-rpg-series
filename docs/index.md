@@ -4,7 +4,7 @@ Index Page
 
 ```mermaid
 graph TD
-	Start --> Stuff --> Stop
+	Start --> Stuff --> More --> Stop
 ```
 
 Some more text.
